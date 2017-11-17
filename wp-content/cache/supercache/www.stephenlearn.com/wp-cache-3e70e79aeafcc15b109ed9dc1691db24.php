@@ -1,0 +1,333 @@
+<?php die(); ?><!DOCTYPE HTML>
+<html class="no-js">
+    <head>
+		<title>Stephen愣 - 与时代前行</title>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="description" content="stephen愣，个人学习笔记,技术，心情分享博客。" />
+		<meta name="keywords" content="学习,运维学习,技术学习,python学习,mysql学习" />
+		<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.stephenlearn.com/wp-includes/css/dashicons.min.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://www.stephenlearn.com/wp-includes/css/admin-bar.min.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/bootstrap.min.css?ver=3.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/font-awesome.min.css?ver=4.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/animate.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layer-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/layer.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootsnav-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/bootsnav.min.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='snape-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/style.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='snape-diy-css'  href='https://www.stephenlearn.com/wp-content/themes/Snape-master/css/snape.diy.css?ver=1.2' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.stephenlearn.com/wp-json/' />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="https://www.stephenlearn.com/wp-content/uploads/2017/10/cropped-512log-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.stephenlearn.com/wp-content/uploads/2017/10/cropped-512log-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.stephenlearn.com/wp-content/uploads/2017/10/cropped-512log-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.stephenlearn.com/wp-content/uploads/2017/10/cropped-512log-270x270.png" />
+        <script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/jquery.min.js?ver=3.1.0'></script>
+		    </head>
+    	   <body data-spy="scroll" data-target=".scrollspy">
+    <nav class="navbar navbar-default navbar-fixed bootsnav">
+        <div class="top-search">
+            <div class="container">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                        <form role="search" method="get" action="https://www.stephenlearn.com/">
+                            <input type="text" name='s' id='s' placeholder="Search…" class="form-control" placeholder="" x-webkit-speech>
+                        </form>
+                    <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="attr-nav">
+                <ul>
+                    <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                </ul>
+            </div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                    <i class="fa fa-bars"></i>
+                </button>
+                                    <a class="navbar-brand title-noimg" href="https://www.stephenlearn.com">Stephen愣</a>
+                            </div>
+                <div id="navbar-menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="nav navbar-nav navbar-right"><li><a title="首页" href="https://www.stephenlearn.com/%e9%a6%96%e9%a1%b5">首页</a></li>
+<li><a title="博客" href="https://www.stephenlearn.com/%e5%8d%9a%e5%ae%a2">博客</a></li>
+<li><a title="关于博主" href="https://www.stephenlearn.com/sample-page">关于博主</a></li>
+</ul></div>        </div>
+    </nav>
+    <div class="clearfix"></div><div class="post-section blog-post" style="background:#f9f9f9">
+    <div class="container">
+        <div class="row">
+            <section id="main" class="col-md-8">
+            <article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/150"><a href="https://www.stephenlearn.com/archives/150"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/IMG_5338-1-688x677.jpg" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/150">同一个世界，不同的风景</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月17日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/think"><i class="fa fa-folder-open-o"></i> 小情绪</a>				<a href="https://www.stephenlearn.com/archives/150#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/150"><i class="fa fa-eye"></i> 5次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/150"><i class="fa fa-thumbs-o-up"></i> 0人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>同一个世界，不同的风景 前段时间，出去玩，拍了很多的风景。 天气刚好非常给面子。天是那么的蓝 海也是那么的蓝。 一直想更新一篇带风景的文章。 海边的游艇 看海景别墅。 带游泳池，还有院子里有很多桌子，非常适合开party&hellip;</p>
+		</div>
+	</div>
+</article><article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/126"><a href="https://www.stephenlearn.com/archives/126"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/1111.png" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/126">双十一如何“剁手”</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月11日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/think"><i class="fa fa-folder-open-o"></i> 小情绪</a>				<a href="https://www.stephenlearn.com/archives/126#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/126"><i class="fa fa-eye"></i> 14次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/126"><i class="fa fa-thumbs-o-up"></i> 0人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>“剁手”的瘾 随着双十一的到来，很多人又要开始“买买买”了。 当你“管不住自己的手”的时候，可能是有了购物瘾。 不仅是购物，抽烟、喝酒、玩游戏都会让人上瘾。 一本刚出版的英文畅销书《从瘾君子到康复者》（Recovery:&hellip;</p>
+		</div>
+	</div>
+</article><article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/123"><a href="https://www.stephenlearn.com/archives/123"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/https.png" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/123">如何让网站更安全</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月9日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/learn/web"><i class="fa fa-folder-open-o"></i> 建站学习</a>				<a href="https://www.stephenlearn.com/archives/123#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/123"><i class="fa fa-eye"></i> 21次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/123"><i class="fa fa-thumbs-o-up"></i> 1人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>网站加密https 前几天小土豆手把手的教了我如何部署 HTTPS、默认跳转到 HTTPS。真的非常感谢。 在此把整个过程再回忆一遍，写下了，加深自己的记忆。 小土豆的教程地址手动配置 Let’s Encrypt+Ngi&hellip;</p>
+		</div>
+	</div>
+</article><article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/109"><a href="https://www.stephenlearn.com/archives/109"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/错误1.jpg" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/109">wordpress搬家遇到的问题</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月7日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/learn/mysql"><i class="fa fa-folder-open-o"></i> Mysql学习</a>				<a href="https://www.stephenlearn.com/archives/109#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/109"><i class="fa fa-eye"></i> 16次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/109"><i class="fa fa-thumbs-o-up"></i> 0人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>首先是搬家 把wordpress的文件保存。当然还有各种方法下载到本地。或者传过去。 把mysql数据库导出。再导入新的服务器。（嗯就是这个出了问题。） mysql问题 当然，如果mysql的版本一样或者都低于5.6或者&hellip;</p>
+		</div>
+	</div>
+</article><article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/68"><a href="https://www.stephenlearn.com/archives/68"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/0.jpeg" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/68">一个被央视耽误的段子手</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月5日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/think"><i class="fa fa-folder-open-o"></i> 小情绪</a>				<a href="https://www.stephenlearn.com/archives/68#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/68"><i class="fa fa-eye"></i> 26次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/68"><i class="fa fa-thumbs-o-up"></i> 0人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>段子手 央视段子手朱广权又出“新作” 化身冷空气上线“你好，我是偏东路径的冷空气，最近挺想大家的，所以迫不及待地从东北那边先进来了。未来几天，我计划的行程是这样的：3日我要冻哭东北内蒙古地区，4日冻懵新疆西藏地区……网友&hellip;</p>
+		</div>
+	</div>
+</article><article class="hentry clearfix">
+		<div class="entry-thumb clearfix"> 
+		<a href="https://www.stephenlearn.com/archives/65"><a href="https://www.stephenlearn.com/archives/65"><img class="snape-thumb" src="https://www.stephenlearn.com/wp-content/uploads/2017/11/ubuntu1.png" /></a></a>
+	</div>	
+		<div class="post-inner">
+		<header class="entry-header clearfix">
+			<h1 class="entry-title"><a href="https://www.stephenlearn.com/archives/65">关于自己网站的搭建-服务器</a></h1>
+			<div class="post-meta">
+				<span class="pull-left">
+				<a href="#"><i class="fa fa-calendar"></i> 2017年11月4日</a>
+				</span>
+				<span class="visible-lg visible-md visible-sm pull-left">
+				<a href="https://www.stephenlearn.com/archives/category/learn/linux"><i class="fa fa-folder-open-o"></i> LINUX学习</a>				<a href="https://www.stephenlearn.com/archives/65#respond"><i class="fa fa-commenting-o"></i> 0条评论</a>
+				</span>
+				<span class="pull-left">
+				<a href="https://www.stephenlearn.com/archives/65"><i class="fa fa-eye"></i> 37次浏览</a>
+				<a href="https://www.stephenlearn.com/archives/65"><i class="fa fa-thumbs-o-up"></i> 0人点赞</a>
+				</span>
+			</div>
+		</header>
+		<div class="entry-content clearfix">
+		<p>今天说说自己网站的搭建。 为啥要买服务器？ 首先，因为想学一下技术，Linux服务器的管理。所以虚拟机已经无法满足自己了。 所以看到阿里云的广告，有199元一年的服务器，2G内存，1M独享网络。由于购买的时候不知道怎么选&hellip;</p>
+		</div>
+	</div>
+</article>                                            </section>
+            <aside id="widget-area" class="col-md-4 hidden-xs hidden-sm scrollspy">
+                <div id="sidebar">
+                    		<aside id="recent-posts-2" class="widget widget_recent_entries clearfix">		<h4 class="widget-title">近期文章</h4>		<ul>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/150">同一个世界，不同的风景</a>
+									</li>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/126">双十一如何“剁手”</a>
+									</li>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/123">如何让网站更安全</a>
+									</li>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/109">wordpress搬家遇到的问题</a>
+									</li>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/68">一个被央视耽误的段子手</a>
+									</li>
+											<li>
+					<a href="https://www.stephenlearn.com/archives/65">关于自己网站的搭建-服务器</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-2" class="widget widget_categories clearfix"><h4 class="widget-title">分类目录</h4>		<ul>
+	<li class="cat-item cat-item-1"><a href="https://www.stephenlearn.com/archives/category/learn" >学习笔记</a> (3)
+<ul class='children'>
+	<li class="cat-item cat-item-19"><a href="https://www.stephenlearn.com/archives/category/learn/linux" >LINUX学习</a> (1)
+</li>
+	<li class="cat-item cat-item-22"><a href="https://www.stephenlearn.com/archives/category/learn/mysql" >Mysql学习</a> (1)
+</li>
+	<li class="cat-item cat-item-24"><a href="https://www.stephenlearn.com/archives/category/learn/web" >建站学习</a> (1)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.stephenlearn.com/archives/category/think" >小情绪</a> (3)
+</li>
+		</ul>
+</aside><aside id="snape_ad-2" class="widget widget_snape_ad clearfix">                        <h4 class="widget-title">5美元境外服务器</h4>
+                                    <a href="https://www.vultr.com/?ref=7255945" target="_blank">
+                <img class="carousel-inner img-responsive img-rounded" src="https://www.vultr.com/media/banner_1.png" />
+            </a>
+                    </aside><aside id="custom_html-3" class="widget_text widget widget_custom_html clearfix"><div class="textwidget custom-html-widget"></div></aside>                </div>
+            </aside>
+        </div>
+    </div>
+</div>
+        <footer id="footer">
+            <a class="cd-top visible-lg text-center"><span class="fa fa-chevron-up"></span></a>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3 text-center">
+                        <p class="social-icons">
+                                                                                                                                                                        </p>
+                        <p>© 2017 <a href="https://www.stephenlearn.com">Stephen愣</a> All Rights Reserved.<br>Theme <a href="https://github.com/vtrois/snape" target="_blank" rel="nofollow">Snape</a> made by <a href="https://www.vtrois.com/" target="_blank" rel="nofollow">Vtrois</a></a></p><p></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <script type='text/javascript' src='https://www.stephenlearn.com/wp-includes/js/admin-bar.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/bootstrap.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/bootsnav.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/layer.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/jquery.qrcode.min.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/snape.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-content/themes/Snape-master/js/snape.diy.js?ver=1.2'></script>
+<script type='text/javascript' src='https://www.stephenlearn.com/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">跳至工具栏</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="工具栏" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.stephenlearn.com/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">关于WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/about.php">关于WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://cn.wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">文档</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="http://zh-cn.forums.wordpress.org/">支持论坛</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="http://zh-cn.forums.wordpress.org/forum/suggestions">反馈</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.stephenlearn.com/wp-admin/">Stephen愣</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/">仪表盘</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/themes.php">主题</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/widgets.php">小工具</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/nav-menus.php">菜单</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/customize.php?url=https%3A%2F%2Fwww.stephenlearn.com%2F">自定义</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/update-core.php" title="翻译更新"><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">翻译更新</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/edit-comments.php"><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0条评论待审</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="https://www.stephenlearn.com/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">新建</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/post-new.php">文章</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/media-new.php">媒体</a>		</li>
+		<li id="wp-admin-bar-new-link"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/link-add.php">链接</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/post-new.php?post_type=page">页面</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/user-new.php">用户</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://www.stephenlearn.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">搜索</label><input type="submit" class="adminbar-button" value="搜索"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="https://www.stephenlearn.com/wp-admin/profile.php">嗨，<span class="display-name">stephen</span><img alt='' src='https://cn.gravatar.com/avatar/c9d3aa146dd0ecd20e304b3ada325b16?s=26&#038;d=identicon&#038;r=g' srcset='https://cn.gravatar.com/avatar/c9d3aa146dd0ecd20e304b3ada325b16?s=52&#038;d=identicon&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="https://www.stephenlearn.com/wp-admin/profile.php"><img alt='' src='https://cn.gravatar.com/avatar/c9d3aa146dd0ecd20e304b3ada325b16?s=64&#038;d=identicon&#038;r=g' srcset='https://cn.gravatar.com/avatar/c9d3aa146dd0ecd20e304b3ada325b16?s=128&#038;d=identicon&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>stephen</span><span class='username'>admin_f</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="https://www.stephenlearn.com/wp-admin/profile.php">编辑我的个人资料</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="https://www.stephenlearn.com/wp-login.php?action=logout&#038;_wpnonce=e3891d3783">登出</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://www.stephenlearn.com/wp-login.php?action=logout&#038;_wpnonce=e3891d3783">登出</a>
+					</div>
+
+		           </body>
+</html>
+<!-- Dynamic page generated in 0.207 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-11-17 23:00:41 -->
